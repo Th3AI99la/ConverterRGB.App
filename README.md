@@ -1,4 +1,4 @@
-# ConverterRGB.App
+# ConverterRGB.App (Swift and SwiftUI)
 
 
 <p align = "center">
